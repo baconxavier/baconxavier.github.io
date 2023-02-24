@@ -3,8 +3,9 @@ url: "https://baconxavier.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
+remote_theme: ankitsultana/researcher@gem
 #ins_logo: "./bits-logo.png"
-remote_theme: ankitsultana/researcher
+
 
 tracking_id: #
 
