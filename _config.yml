@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://baconxavier.github.io"
-baseurl: "/researcher"
+#baseurl: "/researcher"
 
 markdown: kramdown
 remote_theme: ankitsultana/researcher@gem
