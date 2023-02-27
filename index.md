@@ -12,12 +12,13 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Optimal Transport, Calculus of variations, Optimization.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. X.Bacon: Multi-species Optimal Transportation
+2. X.Bacon, G.Carlier, B.Nazaret: A spatial Pareto exchange economy problem
+3. X.Bacon: Quelques modèles en Transport Optimal de mesures à valeurs vectorielles (PhD)
 
 ## Typography
 
