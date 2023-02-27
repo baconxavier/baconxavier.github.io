@@ -13,6 +13,8 @@ footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
+first_name: Xavier
+
 sass:
     style: compressed
     sass_dir: _sass
