@@ -1,7 +1,3 @@
-## About Me
-
-Doctorate in Mathematics
-
 ## Research Interest
 
 Optimal Transport, Calculus of variations, Optimization.
