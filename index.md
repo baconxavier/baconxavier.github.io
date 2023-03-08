@@ -1,8 +1,8 @@
-Doctorate in Mathematics
+Doctorate in Mathematics (a <a href="https://baconxavier.github.io/pdf/CVgit.pdf" target="_blank">CV</a>)
 
 ## Research Interest
 
-Optimal Transport, Calculus of variations, Optimization.
+Optimal transport, calculus of variations, optimization, convex analysis and many others.
 
 ## Articles and papers
 
