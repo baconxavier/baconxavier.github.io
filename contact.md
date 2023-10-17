@@ -1,1 +1,1 @@
-* Email: firstname dot surname at dauphine dot psl dot eu
+* Email: xnl dot bacon at gmail dot com
