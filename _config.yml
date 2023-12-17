@@ -20,5 +20,5 @@ sass:
 nav:
  - name: "Contact"
    link: "contact"
-- name: "Miscellaneous"
+ - name: "Miscellaneous"
   link: "miscellaneous"
