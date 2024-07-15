@@ -1,8 +1,8 @@
-Doctorate in Mathematics [<a href="https://baconxavier.github.io/pdf/CV-5.pdf" target="_blank">CV</a>]
+Postdoctoral reasearcher in Mathematics and Statistics [<a href="https://baconxavier.github.io/pdf/CV-5.pdf" target="_blank">CV</a>]
 
 ## Research Interest
 
-Optimal transport, calculus of variations, optimization, convex analysis and many others.
+Optimal transport, statistics, programming, calculus of variations/optimization, convex analysis and many others.
 
 ## Articles and papers
 
