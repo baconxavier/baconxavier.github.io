@@ -1,4 +1,4 @@
-Doctorate in Mathematics [<a href="https://baconxavier.github.io/pdf/CV.pdf" target="_blank">CV-5</a>]
+Doctorate in Mathematics [<a href="https://baconxavier.github.io/pdf/CV-5.pdf" target="_blank">CV</a>]
 
 ## Research Interest
 
