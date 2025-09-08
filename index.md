@@ -6,6 +6,12 @@ Postdoctoral reasearcher in Mathematics and Statistics at <a href="https://centr
 
 Optimal Transport, Complex Systems, Statistics, Calculus of variations/Optimization and many others.
 
+## Talks
+
+|Date|Title|Event + Location|
+|-|-|-|
+|September 2, 2025|<a href="https://baconxavier.github.io/pdf/Siena_Spatial_heterogeneity.pdf" target="_blank">Analysing Spatial Heterogeneity using Optimal Transport and applied to electoral results</a>|Conference on Complex Systems 2025, Siena|
+
 ## Articles and papers
 
 1. X.Bacon: Multi-species Optimal Transportation [[journal]](https://link.springer.com/article/10.1007/s10957-019-01590-z) [[arxiv]](https://arxiv.org/pdf/1901.04765.pdf)
