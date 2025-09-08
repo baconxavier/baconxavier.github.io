@@ -4,7 +4,7 @@ Postdoctoral reasearcher in Mathematics and Statistics at <a href="https://centr
 
 ## Research Interest
 
-Optimal transport, statistics, programming, calculus of variations/optimization, convex analysis and many others.
+Optimal Transport, Complex Systems, Statistics, Calculus of variations/Optimization and many others.
 
 ## Articles and papers
 
