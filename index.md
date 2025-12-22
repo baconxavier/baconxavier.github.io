@@ -1,4 +1,4 @@
-Postdoctoral reasearcher in Mathematics and Statistics at <a href="https://centreborelli.ens-paris-saclay.fr/fr" target="_blank">Borelli Center</a>, ENS Paris-Saclay.
+Postdoctoral reasearcher in Applied Mathematics at <a href="https://centreborelli.ens-paris-saclay.fr/fr" target="_blank">Borelli Center</a>, ENS Paris-Saclay.
 
 [<a href="https://baconxavier.github.io/pdf/CV-5.pdf" target="_blank">CV</a>]
 
@@ -23,4 +23,5 @@ Optimal Transport, Complex Systems, Statistics, Calculus of variations/Optimizat
 
 1. X.Bacon: Multi-species Optimal Transportation [[journal]](https://link.springer.com/article/10.1007/s10957-019-01590-z) [[arxiv]](https://arxiv.org/pdf/1901.04765.pdf)
 2. X.Bacon, G.Carlier, B.Nazaret: A spatial Pareto exchange economy problem [[journal]](https://link.springer.com/epdf/10.1007/s00245-022-09947-z?sharing_token=kDiygxG1Y8rPVKYg6xRRjve4RwlQNchNByi7wbcMAY41748Q_Mynh6TPdpt0xuv6-3o3SQv6aij8n6yQL5eVOMqjmN1o9Xun4VmbNFBtsuURjTVaqQ4K6Qiq0981RDepHLAAIS2W5y7wkUtjuMhGumTxfWyJHe3linFnROOrAOw%3D) [[hal]](https://hal.science/hal-03480323/file/BCN_Pareto_AMO.pdf)
-3. (PhD) X.Bacon: Quelques modèles en Transport Optimal de mesures à valeurs vectorielles [[hal]](https://hal.science/tel-03913931/document) 
+3. (PhD) X.Bacon: Quelques modèles en Transport Optimal de mesures à valeurs vectorielles [[hal]](https://hal.science/tel-03913931/document)
+4. J.Touzet, X.Bacon: Analysing Spatial Heterogeneity using Optimal Transport [[hal]](https://hal.science/hal-05425711)
