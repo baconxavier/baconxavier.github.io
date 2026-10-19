@@ -10,6 +10,8 @@ Optimal Transport, Complex Systems, Statistics, Calculus of variations/Optimizat
 
 |Date|Title|Event + Location|
 |-|-|-|
+|September 10, 2026|<a href"https://baconxavier.github.io/pdf/SafePaw_10sept2026.pdf" target="_blank">Spatial Healthcare Access through the focal coherence radius model|SafePaw PEPR Day, Paris School of Economics|
+|July 16, 2026|<a href"https://baconxavier.github.io/pdf/Presentation_16_Juin_2026_Bacon-1.pdf" target="_blank">Analysing Spatial Heterogeneity using Optimal Transport and applied to electoral results|Spatial Analyses and Territorial Vulnerabilities: A Cross-Disciplinary Perspective Between the Humanities and Mathematics, ÉNS Paris Saclay|
 |September 2, 2025|<a href="https://baconxavier.github.io/pdf/Siena_Spatial_heterogeneity.pdf" target="_blank">Analysing Spatial Heterogeneity using Optimal Transport and applied to electoral results</a>|Conference on Complex Systems 2025, Siena|
 |July 3, 2025|<a href="https://baconxavier.github.io/pdf/SafePaw_lens_model.pdf" target="_blank">French spatial disparities in Major Diseases through Multiscalar Lens</a>|SafePaw Day focusing on patient care pathways and medical deserts, Paris School of Economics|
 |November 4, 2025|<a href="https://baconxavier.github.io/pdf/GTMod.pdf" target="_blank">Optimal transport, economic exchanges and healthcare facilities</a>|GTMod, Borelli Center, ÉNS Paris-Saclay|
@@ -25,3 +27,4 @@ Optimal Transport, Complex Systems, Statistics, Calculus of variations/Optimizat
 2. X.Bacon, G.Carlier, B.Nazaret: A spatial Pareto exchange economy problem [[journal]](https://link.springer.com/epdf/10.1007/s00245-022-09947-z?sharing_token=kDiygxG1Y8rPVKYg6xRRjve4RwlQNchNByi7wbcMAY41748Q_Mynh6TPdpt0xuv6-3o3SQv6aij8n6yQL5eVOMqjmN1o9Xun4VmbNFBtsuURjTVaqQ4K6Qiq0981RDepHLAAIS2W5y7wkUtjuMhGumTxfWyJHe3linFnROOrAOw%3D) [[hal]](https://hal.science/hal-03480323/file/BCN_Pareto_AMO.pdf)
 3. (PhD) X.Bacon: Quelques modèles en Transport Optimal de mesures à valeurs vectorielles [[hal]](https://hal.science/tel-03913931/document)
 4. J.Touzet, X.Bacon: Analysing Spatial Heterogeneity using Optimal Transport [[hal]](https://hal.science/hal-05425711)
+5. S. K. Diallo, J. Touzet, X. Bacon : Optimal transport for primary care planning [[hal]](https://hal.science/hal-05744938v1)
