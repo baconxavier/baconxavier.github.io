@@ -31,4 +31,8 @@ Optimal Transport, Complex Systems, Statistics, Calculus of variations/Optimizat
 
 ## Research and academic responsibilities
 
+Organiser of the Semestrial Borelli's Seminar.
+
+Co-superviser (with J. Randon-Furling and Q. Bernet) of the first-year research dissertation of  L. Casanova, T. Lollier and M. Tavernier: the subject was to explore network science together with optimal transport to study the database [Mandragore](https://mandragore.bnf.fr/).
+
 In 2023–2024, I organized (then co-organized) a workshop on the connections between machine learning and optimal transport at the SAMM laboratory in Panthéon-Sorbonne University. During the workshop, I had the opportunity to say a few words about the <a href="https://baconxavier.github.io/Wasserstein_barycenters.pdf" target="_blank">Wasserstein barycenter</a>.
