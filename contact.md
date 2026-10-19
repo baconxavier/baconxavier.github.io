@@ -1,1 +1,1 @@
-* Email: xnl dot bacon at gmail dot com
+prénom.nom@ens-paris-saclay.fr
