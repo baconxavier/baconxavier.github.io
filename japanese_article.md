@@ -1,12 +1,4 @@
----
-title: "Article japonais"
-draft: false
-_build:
-  list: never
-  render: always
-sitemap:
-  disable: true
----
+
 # 鬼婆の糸つむぎ
 昔、青森県の津軽地方に、両親を亡くした幼い娘が一人で暮らしていました。娘は毎日、麻の糸を作り、それを町で売って生活していました。
 しかし、麻は硬く、娘には上手に糸を作ることができませんでした。
